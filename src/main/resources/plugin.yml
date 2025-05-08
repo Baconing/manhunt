@@ -1,0 +1,5 @@
+name: manhunt
+version: '1.0-SNAPSHOT'
+main: ng.baconi.manhunt.Manhunt
+api-version: '1.16'
+load: STARTUP
